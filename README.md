@@ -1,7 +1,7 @@
 # EEG-Test-1
 
 
-## Greetings and thanks
+## Greetings and Thanks
 
 ### Related Links To the EEG Based Project:
 
