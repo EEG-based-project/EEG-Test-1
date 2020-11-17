@@ -1,9 +1,9 @@
 # EEG-Test-1
 
 
-# Greetings and thanks
+## Greetings and thanks
 
-## Related Links To the EEG Based Project:
+### Related Links To the EEG Based Project:
 
 >  - https://blog.adafruit.com/2016/08/31/eeg-options-for-brain-control-interface-projects/
 >    
